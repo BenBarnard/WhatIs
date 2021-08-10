@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Frank Harrell Statistical misconsceptions talk https://www.youtube.com/watch?v=nNwwebs6qjU
+
+What is a p-value book
+
+data random - frequentist
+parameters random - bayesian
